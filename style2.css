@@ -64,6 +64,10 @@ li.completed span {
   border: none;
   border-radius: 3px;
   cursor: pointer;
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 8px;
 }
 
 .complete-btn {
